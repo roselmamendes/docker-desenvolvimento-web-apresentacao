@@ -1,0 +1,22 @@
+{
+  "name": "docker-desenvolvimento-web-apresentacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roselmamendes/docker-desenvolvimento-web-apresentacao.git"
+  },
+  "author": "Roselma Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roselmamendes/docker-desenvolvimento-web-apresentacao/issues"
+  },
+  "homepage": "https://github.com/roselmamendes/docker-desenvolvimento-web-apresentacao#readme"
+}
